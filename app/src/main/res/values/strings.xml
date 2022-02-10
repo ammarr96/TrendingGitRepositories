@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GitTrendingRepo</string>
+
+    <string name="repository_list">Repository list</string>
+    <string name="repository_details">Repository details</string>
+
+    <string name="select_sort_option">Select sort option</string>
+    <string name="sort_by_updated_date">By update date</string>
+    <string name="sort_by_forks">By forks</string>
+    <string name="sort_by_stars">By stars</string>
+    <string name="sort_by_default">By rank</string>
+
+    <string name="search_for_repositories">Search for repository</string>
+    <string name="stars">Stars</string>
+    <string name="forks">Forks</string>
+
+    <string name="owner">Owner</string>
+    <string name="repository_name">Repository name</string>
+    <string name="creation_time">Creation time</string>
+    <string name="last_update_time">Last update time</string>
+    <string name="description">Description</string>
+    <string name="language">Language</string>
+</resources>

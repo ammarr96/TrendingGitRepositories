@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_defauls"
+        android:title="@string/sort_by_default"
+        android:checked="true"
+        android:checkable="true"/>
+    <item android:id="@+id/menu_stars"
+        android:title="@string/sort_by_stars"
+        android:checkable="true"/>
+    <item android:id="@+id/menu_forks"
+        android:title="@string/sort_by_forks"
+        android:checkable="true"/>
+</menu>
